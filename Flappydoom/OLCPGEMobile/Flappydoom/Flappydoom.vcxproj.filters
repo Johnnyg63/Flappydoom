@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="android_native_app_glue.h" />
+    <ClInclude Include="sse2neon.h" />
+    <ClInclude Include="stb_image.h" />
+    <ClInclude Include="olcPixelGameEngine_Mobile.h" />
+    <ClInclude Include="lib\olcSoundWaveEngine.h">
+      <Filter>lib</Filter>
+    </ClInclude>
+    <ClInclude Include="scripts\gCommand_Difficulty.h">
+      <Filter>scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="scripts\gCommand_Score.h">
+      <Filter>scripts</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Animation.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Background.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Bird.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\BirdData.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Ceiling.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Fire.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Ground.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Pipe.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="scene\Pipes.h">
+      <Filter>scene</Filter>
+    </ClInclude>
+    <ClInclude Include="definitions.h" />
+    <ClInclude Include="GameDifficulty.h" />
+    <ClInclude Include="GameEngine.h" />
+    <ClInclude Include="GameScript.h" />
+    <ClInclude Include="GameState.h" />
+    <ClInclude Include="Score.h" />
+    <ClInclude Include="Settings.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="scene">
+      <UniqueIdentifier>{2546bdbd-dcc9-41ec-a34b-1a99c09fafd0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="scripts">
+      <UniqueIdentifier>{a666ad37-c0d3-49d4-b098-644c9df4b7b7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="lib">
+      <UniqueIdentifier>{d683ee6f-2e6a-4920-8e54-9c65f21602ea}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

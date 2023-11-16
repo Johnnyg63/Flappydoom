@@ -1,0 +1,74 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{39E2626F-3545-4960-A6E8-258AD8476CE5}") = "Flappydoom", "Flappydoom\Flappydoom\Flappydoom.androidproj", "{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OLCPGEMobile", "OLCPGEMobile", "{F553DDE9-AAF4-4533-A6FA-317636F4C53B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Flappydoom", "Flappydoom\OLCPGEMobile\Flappydoom\Flappydoom.vcxproj", "{D7A1B025-1C03-4CC8-960B-C9755E8163E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Debug|ARM64 = Debug|ARM64
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|ARM64 = Release|ARM64
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|ARM.ActiveCfg = Debug|ARM
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|ARM.Build.0 = Debug|ARM
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|ARM.Deploy.0 = Debug|ARM
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|ARM64.Build.0 = Debug|ARM64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|ARM64.Deploy.0 = Debug|ARM64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|x64.ActiveCfg = Debug|x64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|x64.Build.0 = Debug|x64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|x64.Deploy.0 = Debug|x64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|x86.ActiveCfg = Debug|x86
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|x86.Build.0 = Debug|x86
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Debug|x86.Deploy.0 = Debug|x86
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|ARM.ActiveCfg = Release|ARM
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|ARM.Build.0 = Release|ARM
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|ARM.Deploy.0 = Release|ARM
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|ARM64.ActiveCfg = Release|ARM64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|ARM64.Build.0 = Release|ARM64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|ARM64.Deploy.0 = Release|ARM64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|x64.ActiveCfg = Release|x64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|x64.Build.0 = Release|x64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|x64.Deploy.0 = Release|x64
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|x86.ActiveCfg = Release|x86
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|x86.Build.0 = Release|x86
+		{2C654601-C8C4-42A7-8B18-5B9C7249BC5C}.Release|x86.Deploy.0 = Release|x86
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|ARM.ActiveCfg = Debug|ARM
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|ARM.Build.0 = Debug|ARM
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|ARM64.ActiveCfg = Debug|ARM64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|ARM64.Build.0 = Debug|ARM64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|x64.ActiveCfg = Debug|x64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|x64.Build.0 = Debug|x64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|x86.ActiveCfg = Debug|x86
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Debug|x86.Build.0 = Debug|x86
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|ARM.ActiveCfg = Release|ARM
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|ARM.Build.0 = Release|ARM
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|ARM64.ActiveCfg = Release|ARM64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|ARM64.Build.0 = Release|ARM64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|x64.ActiveCfg = Release|x64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|x64.Build.0 = Release|x64
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|x86.ActiveCfg = Release|x86
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D7A1B025-1C03-4CC8-960B-C9755E8163E2} = {F553DDE9-AAF4-4533-A6FA-317636F4C53B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B68AD9E-C5CE-4C9F-B600-5B135711E961}
+	EndGlobalSection
+EndGlobal
